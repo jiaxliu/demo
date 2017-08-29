@@ -1,4 +1,4 @@
-package com.jiaxliu.demo;
+package com.jiaxliu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
